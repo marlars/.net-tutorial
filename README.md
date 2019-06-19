@@ -1,2 +1,2 @@
 # net-tutorial
-Repository for Microsofts .NET tutorial.
+Repository for various different .NET-tutorials.
